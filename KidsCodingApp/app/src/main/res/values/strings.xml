@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 应用名称 -->
+    <string name="app_name">少儿编程乐园</string>
+
+    <!-- 主题选择页 -->
+    <string name="theme_select_title">🌈 选择你的冒险伙伴 🌈</string>
+    <string name="theme_select_subtitle">每个小伙伴都有独特的故事等你探索！</string>
+    <string name="theme_levels_available">%d 关可玩</string>
+
+    <!-- 关卡选择页 -->
+    <string name="level_select_header">%s - %s</string>
+    <string name="level_completed">已完成</string>
+    <string name="level_current">开始!</string>
+    <string name="level_locked">🔒</string>
+    <string name="level_locked_hint">完成第%d关解锁</string>
+    <string name="back_to_themes">← 返回选择其他伙伴</string>
+
+    <!-- 游戏界面 -->
+    <string name="game_task_hint">🌸 %s</string>
+    <string name="game_block_area_title">🧩 拖拽积木让%s完成任务：</string>
+    <string name="game_available_blocks">可选积木：</string>
+    <string name="game_run_button">▶️ 运行程序</string>
+    <string name="game_reset_button">🔄 重置</string>
+    <string name="game_continue_hint">继续拖入积木...</string>
+
+    <!-- 积木标签 -->
+    <string name="block_forward">➡️ 向前走</string>
+    <string name="block_up">⬆️ 向上走</string>
+    <string name="block_down">⬇️ 向下走</string>
+    <string name="block_loop">🔄 重复 %d 次</string>
+    <string name="block_condition">❓ 如果...</string>
+
+    <!-- 结果界面 - 成功 -->
+    <string name="result_success_title">🎉 过关成功！</string>
+    <string name="result_success_message">太棒了！</string>
+    <string name="result_success_detail">你成功帮助%s完成%s！</string>
+    <string name="result_learned_title">🌟 你学会了：</string>
+    <string name="result_stars">⭐⭐⭐</string>
+    <string name="result_perfect">完美通关！</string>
+    <string name="result_next_level">下一关 →</string>
+    <string name="result_retry">再玩一次</string>
+
+    <!-- 结果界面 - 失败 -->
+    <string name="result_fail_title">再试一次吧！</string>
+    <string name="result_fail_message">没关系！</string>
+    <string name="result_fail_detail">%s相信你一定能做到！</string>
+    <string name="result_hint_title">💡 提示：</string>
+    <string name="result_try_again">🔄 重新尝试</string>
+    <string name="result_show_answer">查看答案</string>
+
+    <!-- 设置 -->
+    <string name="settings">⚙️ 设置</string>
+    <string name="settings_sound">音效</string>
+    <string name="settings_reset_progress">重置进度</string>
+    <string name="settings_about">关于</string>
+
+    <!-- 主题故事背景 -->
+    <string name="theme_pony_story">魔法森林里发生了奇怪的事情...</string>
+    <string name="theme_superjet_story">超级飞侠接到救援任务！</string>
+    <string name="theme_peppa_story">佩奇和家人温馨的日常！</string>
+    <string name="theme_ultraman_story">奥特曼守护正义！</string>
+    <string name="theme_princess_story">小玲公主的梦幻城堡冒险！</string>
+</resources>

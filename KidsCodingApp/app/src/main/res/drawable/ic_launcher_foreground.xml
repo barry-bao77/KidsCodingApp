@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 笑脸图标 -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,54m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0"/>
+
+    <!-- 左眼 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,48m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+
+    <!-- 右眼 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,48m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+
+    <!-- 笑脸 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF"
+        android:pathData="M44,60 Q54,70 64,60"
+        android:fillType="evenOdd"/>
+</vector>

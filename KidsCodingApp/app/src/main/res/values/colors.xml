@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 积木颜色 -->
+    <color name="block_move">#4CAF50</color>
+    <color name="block_loop">#FF9800</color>
+    <color name="block_condition">#9C27B0</color>
+
+    <!-- 主题背景渐变色 -->
+    <color name="pony_start">#FFB6C1</color>
+    <color name="pony_end">#DDA0DD</color>
+    <color name="superjet_start">#87CEEB</color>
+    <color name="superjet_end">#4682B4</color>
+    <color name="peppa_start">#FFB6C1</color>
+    <color name="peppa_end">#FFC0CB</color>
+    <color name="ultraman_start">#FFD700</color>
+    <color name="ultraman_end">#FFA500</color>
+    <color name="princess_start">#E6E6FA</color>
+    <color name="princess_end">#DDA0DD</color>
+
+    <!-- 通用界面颜色 -->
+    <color name="background_gradient_start">#a8e6cf</color>
+    <color name="background_gradient_end">#dcedc1</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#888888</color>
+    <color name="text_hint">#999999</color>
+    <color name="button_primary">#4CAF50</color>
+    <color name="button_secondary">#F0F0F0</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    <color name="error">#F44336</color>
+
+    <!-- 关卡状态颜色 -->
+    <color name="level_completed">#4CAF50</color>
+    <color name="level_current">#FF9800</color>
+    <color name="level_locked">#CCCCCC</color>
+
+    <!-- 结果界面 -->
+    <color name="result_success_start">#FFE66D</color>
+    <color name="result_success_end">#FFF59D</color>
+    <color name="result_fail_start">#E3F2FD</color>
+    <color name="result_fail_end">#BBDEFB</color>
+</resources>
